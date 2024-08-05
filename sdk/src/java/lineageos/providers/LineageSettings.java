@@ -2968,6 +2968,12 @@ public final class LineageSettings {
         public static final String NETWORK_TRAFFIC_HIDEARROW = "network_traffic_hidearrow";
 
         /**
+         * Network traffic icon type
+         * @hide
+         */
+        public static final String NETWORK_TRAFFIC_ICON_TYPE = "network_traffic_icon_type";
+
+        /**
          * Trust warnings status
          *
          * Stores flags for each feature
